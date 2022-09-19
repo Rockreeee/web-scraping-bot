@@ -88,7 +88,7 @@ class auto_order:
                             #お支払い方法を選択
                             self.resOfPaySelectButton() 
                             #注文確定
-                            self.resOfPlaceYourOrderButton()
+                            # self.resOfPlaceYourOrderButton()
                             print("購入できた")
                             break
                         
@@ -107,7 +107,7 @@ class auto_order:
                         #お支払い方法を選択
                         self.resOfPaySelectButton() 
                         #注文確定
-                        self.resOfPlaceYourOrderButton()
+                        # self.resOfPlaceYourOrderButton()
                         print("購入できた")
                         break
                         

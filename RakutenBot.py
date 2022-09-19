@@ -70,7 +70,7 @@ class auto_order:
                     #次へボタン
                     self.resOfNextButton()
                     #注文確定ボタン
-                    self.resOfConfirmTheOrderButton()
+                    # self.resOfConfirmTheOrderButton()
                     break
                     
             if count > lim:
