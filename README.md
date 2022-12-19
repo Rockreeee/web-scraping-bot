@@ -4,6 +4,7 @@
 WEBスクレイピングを用いた、高速購入BOTです。  
  - Amazon用 = AmazonBot.py
  - Rakuten用 = RakutenBot.py
+ 
 テスト環境では注文確定はコメントアウトすること。
 当ファイルは参考にする程度でお願いします。
 悪用厳禁。
